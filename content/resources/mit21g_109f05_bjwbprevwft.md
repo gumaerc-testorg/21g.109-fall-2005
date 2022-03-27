@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d28746f8-1bdf-38bd-2382-2c5ef18a0606
 resourcetype: Document
 title: Learn Chinese from Modern Writers
 uid: ca1514f6-4906-3202-0589-99aab074504c

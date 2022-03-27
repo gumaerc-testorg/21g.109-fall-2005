@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d28746f8-1bdf-38bd-2382-2c5ef18a0606
 resourcetype: Document
 title: End of term Essay
 uid: 73301736-693c-bc16-4276-43a60d29196c
