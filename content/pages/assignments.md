@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: d28746f8-1bdf-38bd-2382-2c5ef18a0606
 ---
@@ -80,7 +81,7 @@ Handout: Characters and Special Terms in _Family_ the Film
 
 Read pp. 1-5 of Unit 1 of WB
 
-Hand-write: Preview Exercises \[Fanti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjwbprevwft)) -- Jianti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjwbprevwjt))\]
+Hand-write: Preview Exercises \[Fanti ({{< resource_link ca1514f6-4906-3202-0589-99aab074504c "PDF" >}}) -- Jianti ({{< resource_link 102e52dd-e328-d60b-bbd4-0d1d7eb5d818 "PDF" >}})\]
 
 
 {{< tdclose >}}
@@ -141,7 +142,7 @@ c) Lin Biao (brief bio)
 {{< tdopen >}}
 
 
-Watch _Family._ 1957, 120 min., and do these workbook exercises \[Fanti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjffexerjtft)) -- Jianti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjffexerjt))\].
+Watch _Family._ 1957, 120 min., and do these workbook exercises \[Fanti ({{< resource_link 8ec7a7a3-ef94-2415-cb58-fe9b1d8f154b "PDF" >}}) -- Jianti ({{< resource_link fb237798-7458-e46e-8c2f-3a5111cc6622 "PDF" >}})\].
 
 
 {{< tdclose >}}
@@ -225,7 +226,7 @@ Discuss pp. 5-9 of Unit 1 of RD
 
 Read pp. 10-16 of Unit 1 of RD
 
-Hand-write: Preview Exercises \[Fanti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjrdprevieft)) -- Jianti ([PDF]({{< baseurl >}}/resources/mit21g_109f05_bjrdpreviejt))\]
+Hand-write: Preview Exercises \[Fanti ({{< resource_link d5410304-42a2-1877-a035-ec523dca456e "PDF" >}}) -- Jianti ({{< resource_link bb1ee834-6afe-6ea1-8f5d-00827f361de1 "PDF" >}})\]
 
 
 {{< tdclose >}}
@@ -1071,7 +1072,7 @@ Mock court
 {{< tdopen >}}
 
 
-End-of-term essay instructions. ([PDF]({{< baseurl >}}/resources/mit21g_109f05_finess))
+End-of-term essay instructions. ({{< resource_link 73301736-693c-bc16-4276-43a60d29196c "PDF" >}})
 
 
 {{< tdclose >}}
