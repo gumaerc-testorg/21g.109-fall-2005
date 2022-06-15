@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains goals, classes, and grading criteria for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 1e47a477-22b6-2c65-18cc-0ab411c40058
 ---
