@@ -5,6 +5,7 @@ file: /courses/21g-109-chinese-iii-streamlined-fall-2005/102e52dde328d60bbbd40d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Learn Chinese from Modern Writers
 uid: 102e52dd-e328-d60b-bbd4-0d1d7eb5d818
 ---
 This resource contains information regarding Chinese from modern writers.
-

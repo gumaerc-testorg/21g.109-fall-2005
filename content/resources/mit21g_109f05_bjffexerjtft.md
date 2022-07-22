@@ -6,6 +6,7 @@ file: /courses/21g-109-chinese-iii-streamlined-fall-2005/8ec7a7a3ef942415cb58fe9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u96FB\u5F71\u300A\u5BB6\u300B\u95EE\u9898"
 uid: 8ec7a7a3-ef94-2415-cb58-fe9b1d8f154b
 ---
 This resource contains information regarding workbook exercise in "Jianti", Chinese for "simplified characters" (used in Mainland).
-

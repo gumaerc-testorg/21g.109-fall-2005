@@ -6,6 +6,7 @@ file: /courses/21g-109-chinese-iii-streamlined-fall-2005/bb1ee8346afe6ea18f5d008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u300A\u4E2D\u56FD\u73B0\u4EE3\u6587\u5B66\u9009\u8BFB\u300B"
 uid: bb1ee834-6afe-6ea1-8f5d-00827f361de1
 ---
 This resource contains information regarding 《中国现代文学选读》.
-

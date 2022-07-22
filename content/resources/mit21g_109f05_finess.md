@@ -5,6 +5,7 @@ file: /courses/21g-109-chinese-iii-streamlined-fall-2005/73301736693cbc16427643a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: End of term Essay
 uid: 73301736-693c-bc16-4276-43a60d29196c
 ---
 This resource contains information regarding end-of-term essay instructions.
-
