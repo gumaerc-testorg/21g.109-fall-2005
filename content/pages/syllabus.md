@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains goals, classes, and grading criteria for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1e47a477-22b6-2c65-18cc-0ab411c40058
 ---
@@ -28,7 +32,7 @@ Additional handouts from the instructor.
 Goals
 -----
 
-To become familiar with, through close reading of texts in Chinese and relevant audio-visual and on-line materials, the fundamental political and social concerns of Chinese living in the first four decades of the 20th century that form the subject matter of the textbooks and other course materials. Exercises and examinations will be designed accordingly.
+To become familiar with, through close reading of texts in Chinese and relevant audio-visual and on-line materials, the fundamental political and social concerns of Chinese living in the first four decades of the 20{{< sup "th" >}} century that form the subject matter of the textbooks and other course materials. Exercises and examinations will be designed accordingly.
 
 Characters and Pinyin
 ---------------------
