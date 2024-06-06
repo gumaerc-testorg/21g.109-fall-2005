@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding \u300A\u4E2D\u56FD\u73B0\
   \u4EE3\u6587\u5B66\u9009\u8BFB\u300B."
 file: /courses/21g-109-chinese-iii-streamlined-fall-2005/bb1ee8346afe6ea18f5d00827f361de1_MIT21G_109F05_bjrdpreviejt.pdf
+file_size: 231430
 file_type: application/pdf
 learning_resource_types:
 - Assignments
