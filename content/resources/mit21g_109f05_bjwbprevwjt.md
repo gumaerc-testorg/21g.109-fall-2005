@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Chinese from modern writers.
 file: /courses/21g-109-chinese-iii-streamlined-fall-2005/102e52dde328d60bbbd40d1d7eb5d818_MIT21G_109F05_bjwbprevwjt.pdf
+file_size: 160855
 file_type: application/pdf
 learning_resource_types:
 - Assignments
