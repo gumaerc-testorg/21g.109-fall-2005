@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding workbook exercise in "Jianti",
   Chinese for "simplified characters" (used in Mainland).
-file: /courses/21g-109-chinese-iii-streamlined-fall-2005/8ec7a7a3ef942415cb58fe9b1d8f154b_MIT21G_109F05_bjFFexerjtft.pdf
+file: /ol-ocw-studio-app/courses/21g-109-chinese-iii-streamlined-fall-2005/8ec7a7a3ef942415cb58fe9b1d8f154b_MIT21G_109F05_bjFFexerjtft.pdf
 file_size: 127072
 file_type: application/pdf
 learning_resource_types:
