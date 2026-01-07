@@ -303,7 +303,7 @@ Hand-write: Preview Exercises
 
 Read Bio of Máo Dùn in Unit 2 of RD
 
-Check out these pictures of Máo Dùn's hometown today: Wuzhèn (Wu Town) ({{% resource_link "e7804043-0fdb-4951-adb7-853b86bf32f5" "1" %}}, {{% resource_link "df8018cd-904b-40e9-9027-a571805f734a" "2" %}}) in Tóngxiang City (formerly a county) of Zhèjiang Province. Many of the houses built during the Manchu Qing Dynasty are still in use now.
+Check out these pictures of Máo Dùn's hometown today: Wuzhèn (Wu Town) ([1](https://web.archive.org/web/20140401044800/http://www.jsdj.com/luyou/lyzy/zjwuzhen.htm), [2](https://web.archive.org/web/20130602190419/http://www.jsdj.com/luyou/lyzy/zjwuzhen2.htm)) in Tóngxiang City (formerly a county) of Zhèjiang Province. Many of the houses built during the Manchu Qing Dynasty are still in use now.
 
 
 {{< tdclose >}}
@@ -712,7 +712,7 @@ Discuss Parts 1-3, i.e. pp. 107-111 of Unit 4 of RD
 {{< tdopen >}}
 
 
-For those interested, read _Sunrise_ in its entirety ({{% resource_link "43916a1f-8d27-4304-8fc8-53ede4603ebf" "Fanti" %}} -- {{% resource_link "69a45d83-b059-4421-b38a-a2fd59a04424" "Jianti" %}})
+For those interested, read _Sunrise_ in its entirety ([Fanti](http://www.millionbook.net/xd/c/caoyu/ric/index.html) -- [Jianti](http://www.chinadaily.com.cn/opinion/2008-03/22/content_6558770.htm))
 
 
 {{< tdclose >}}
